@@ -45,8 +45,7 @@
 - Ctrl＋Shift + G git
 - Ctrl＋Shift + D debug
 - Ctrl＋Shift + X expretion
-<br> 
-<br>
+---
 - Ctrl＋\　画面分割
 - Ctrl＋p　ファイル検索
 - Ctrl＋B　サイドバー開閉
