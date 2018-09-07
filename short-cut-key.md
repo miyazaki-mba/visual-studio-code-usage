@@ -12,7 +12,7 @@
 
 - Ctrl＋Shift+ \　対応するカッコに移動
 - Ctrl + G  指定行へ移動
----
+<br><br>
 - Alt＋マウスクリック　マルチカーソル
 ---
 - Ctrl＋Alt＋Shift+ 矢印　短形選択  
