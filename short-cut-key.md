@@ -14,18 +14,18 @@
 - Ctrl + G  指定行へ移動
 <br><br>
 - Alt＋マウスクリック　マルチカーソル
----
+<br><br>
 - Ctrl＋Alt＋Shift+ 矢印　短形選択  
 - Shift+Alt＋左右キー　選択範囲の拡縮
----
+<br><br>
 - Shift+Alt＋上下キー　行を下に複製  
 - Ctrl＋Shift+ K　その行を削除  
 - Alt+Down　カーソル行を下に移動  
 - Alt+Up　カーソル行を上に移動
----
-- Ctrl＋/　コメントアウト  
+<br><br>
+- Ctrl＋/　コメントアウト（テキストを囲まなくてもコメントアウトできる。コメントの種類は自動判別してくれる）  
 - Ctrl＋k、Ctrl＋U　コメント削除
----
+<br><br>
 - 左のカレントフォルダーを設定したときに下記が有効
 - 画像が設定しやすい。エディター上から追える。
 - 今はまっている画像も見れる。エクスプローラーで表示もすぐできる。
@@ -45,13 +45,13 @@
 - Ctrl＋Shift + G git
 - Ctrl＋Shift + D debug
 - Ctrl＋Shift + X expretion
----
+<br><br>
 - Ctrl＋\　画面分割
 - Ctrl＋p　ファイル検索
 - Ctrl＋B　サイドバー開閉
 - Ctrl＋0　サイドバーへカーソル移動
 - Ctrl＋9　コード部分へカーソル移動
----
+<br><br>
 - Ctrl＋K、Ctrl＋W　すべて閉じる
 - Ctrl＋K、S　すべて保存
 - Ctrl＋K、Ctrl＋S　ショートカット
