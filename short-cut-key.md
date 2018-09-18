@@ -35,8 +35,9 @@
 <br>
 
 ## Live Server機能（ライブサーバー機能・修正リロード付）  
-- 自分のPC内じゃないと、上手く動かなかった。（workdataのファイルは上手く動かない）
 - 127.0.0.1でアクセスできない場合は、localhostに変えてアクセスしてみてください。  
+- workdataのファイルも、フォルダを設定すれば表示可能。でも、表示が遅い。
+- 自分のPC内のファイルなら、ある程度は表示は早い。
 
 [参照url](https://www.nxworld.net/services-resource/vscode-extension-live-server.html)  
 
